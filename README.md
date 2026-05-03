@@ -15,8 +15,8 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 - [neofetch](https://github.com/dylanaraps/neofetch), the original 'command-line system information tool'
 - [orbitty](http://github.com/aywski/orbitty), 'slowly spinning planets with procedural surface textures'
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh), 'animated pipes terminal screensaver'
-- [terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning), 'creates a mesmerizing rain and lightning animation directly in your terminal'
 - [solarust](https://github.com/the-unknown/solarust), 'a random solar system simulator'
+- [terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning), 'creates a mesmerizing rain and lightning animation directly in your terminal'
 - [unimatrix](https://github.com/will8211/unimatrix), another option for a Matrix-like effect (based on CMatrix above)
 
 
@@ -30,8 +30,8 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 
 ### Productivity
 - [gitfetch](https://github.com/Matars/gitfetch), 'a neofetch-style CLI tool for GitHub, GitLab, Gitea, Forgejo, Codeberg, and Sourcehut statistics'
-- [tuxagotchi](https://github.com/terpinedream/tuxagotchi), 'a terminal-based companion that thrives on your GitHub activity'
 - [terminal-oscilloscope](https://github.com/rolandnsharp/terminal-oscilloscope), 'a terminal-based oscilloscope with CRT phosphor physics'
+- [tuxagotchi](https://github.com/terpinedream/tuxagotchi), 'a terminal-based companion that thrives on your GitHub activity'
 
 ## Contributing
 

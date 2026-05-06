@@ -41,9 +41,8 @@ Contributions are always welcome! Open up an issue with the following:
 - Type of command it is (visualizer, purely aesthetic, etc.)
 
 ## FAQ
-
-#### Why Don't You Add My Command?
+#### Why don't you add my command?
 I'd love to! Open up an issue and let me know about it.
 
-#### I Think Your List above Should Include <insert Something You Think Should Be Included in the list>.
+#### I think your list should include <blah blah blah>.
 That's not much of a question, but tell me about it via an issue and let's talk about it!

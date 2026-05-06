@@ -31,6 +31,8 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 
 ### Silliness
 - [genact](https://github.com/svenstaro/genact), 'a nonsense activity generator'
+- [git](https://github.com/rwos/gti), a git launcher inspired by `sl` in which a car drives across your terminal
+- [sl](https://github.com/mtoyoda/sl), a joke command to make a steam locomotive cross your terminal
 
 ## Contributing
 Contributions are always welcome! Open up an issue with the following:

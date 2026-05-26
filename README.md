@@ -5,14 +5,16 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 ### Aesthetics
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium), 'aquarium/sea animation in ASCII art'
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai), 'a bonsai tree generator' that 'intelligently creates, colors, and positions a bonsai tree'
+- [ClockTemp](https://github.com/arthur-dnts/ClockTemp), 'a TUI clock inspired by [tty-clock](https://github.com/xorg62/tty-clock) that displays the time, date, temperature and more'
 - [cmatrix](https://github.com/abishekvashok/cmatrix), 'Matrix like effect in your terminal'
 - [drift](github.com/phlx0/drift), collection of various scenes including constellations, rain, clock, pipes, and planets
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch), 'a neofetch-like tool for fetching system information and displaying it'
 - [neofetch](https://github.com/dylanaraps/neofetch), the original 'command-line system information tool'
 - [orbitty](http://github.com/aywski/orbitty), 'slowly spinning planets with procedural surface textures'
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh), 'animated pipes terminal screensaver'
-- [terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning), 'creates a mesmerizing rain and lightning animation directly in your terminal'
 - [solarust](https://github.com/the-unknown/solarust), 'a random solar system simulator'
+- [terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning), 'creates a mesmerizing rain and lightning animation directly in your terminal'
+- [tty-clock](https://github.com/xorg62/tty-clock), a minimalist clock displayed in your terminal
 - [unimatrix](https://github.com/will8211/unimatrix), another option for a Matrix-like effect (based on CMatrix above)
 
 ### Audio Tools & Visualizers
@@ -22,10 +24,12 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 
 ### Monitoring
 - [btop](https://github.com/aristocratos/btop), 'resource monitor that shows usage and stats for processor, memory, disks, network and processes'
+- [htop](https://github.com/htop-dev/htop), 'a cross-platform interactive process viewer'
 - [NetOrbit](https://github.com/ZXCurban/NetOrbit), 'real-time global packet visualization in your terminal'
 
-### Productivity
+### 'Productivity'
 - [gitfetch](https://github.com/Matars/gitfetch), 'a neofetch-style CLI tool for GitHub, GitLab, Gitea, Forgejo, Codeberg, and Sourcehut statistics'
+- [toofan](https://github.com/vyrx-dev/toofan), 'a minimal, lightning-fast typing TUI'
 - [tuxagotchi](https://github.com/terpinedream/tuxagotchi), 'a terminal-based companion that thrives on your GitHub activity'
 - [terminal-oscilloscope](https://github.com/rolandnsharp/terminal-oscilloscope), 'a terminal-based oscilloscope with CRT phosphor physics'
 

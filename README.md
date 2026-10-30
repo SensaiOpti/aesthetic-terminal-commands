@@ -4,14 +4,23 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 ## The List
 ### Aesthetics
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium), 'aquarium/sea animation in ASCII art'
+- [astroterm](https://github.com/da-luce/astroterm), a star map in your terminal
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai), 'a bonsai tree generator' that 'intelligently creates, colors, and positions a bonsai tree'
 - [ClockTemp](https://github.com/arthur-dnts/ClockTemp), 'a TUI clock inspired by [tty-clock](https://github.com/xorg62/tty-clock) that displays the time, date, temperature and more'
 - [cmatrix](https://github.com/abishekvashok/cmatrix), 'Matrix like effect in your terminal'
-- [drift](github.com/phlx0/drift), collection of various scenes including constellations, rain, clock, pipes, and planets
+- [drift](https://github.com/phlx0/drift), collection of various scenes including constellations, rain, clock, pipes, and planets
 - [fastfetch](https://github.com/fastfetch-cli/fastfetch), 'a neofetch-like tool for fetching system information and displaying it'
+- [lavat](https://github.com/AngelJumbo/lavat), a program that 'simulates a lava lamp in the terminal'
+- [neo](https://github.com/st3w/neo), another option for a Matrix-like effect (inspired by CMatrix)
 - [neofetch](https://github.com/dylanaraps/neofetch), the original 'command-line system information tool'
+- [nyancat](https://github.com/klange/nyancat), the eponymous nycancat in your terminal
+- [neoclear](https://codeberg.org/ftranschel/neoclear/), a `clear` replacement in a cmatrix-style
+- [pokeductor](https://github.com/Huseynteymurzade28/pokeductor), ‘a terminal Pokédex and evolution analyzer’
+- [pyroclear](https://crates.io/crates/pyroclear), 'a terminal `clear` replacement that burns your screen down before wiping it'
 - [orbitty](http://github.com/aywski/orbitty), 'slowly spinning planets with procedural surface textures'
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh), 'animated pipes terminal screensaver'
+- [pyroclear](https://github.com/shreyanth-sureshkrishnaa/pyroclear), 'a terminal `clear` replacement that burns your screen down before wiping it'
+- [rainfall](https://github.com/k-blo/rainfall), 'a rainfall animation for CLI / unix terminals written in python'
 - [solarust](https://github.com/the-unknown/solarust), 'a random solar system simulator'
 - [terminal-rain-lightning](https://github.com/rmaake1/terminal-rain-lightning), 'creates a mesmerizing rain and lightning animation directly in your terminal'
 - [tty-clock](https://github.com/xorg62/tty-clock), a minimalist clock displayed in your terminal
@@ -24,6 +33,7 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 
 ### Monitoring
 - [btop](https://github.com/aristocratos/btop), 'resource monitor that shows usage and stats for processor, memory, disks, network and processes'
+- [flow](https://github.com/programmersd21/flow), ‘a terminal dashboard for real-time network throughput.’
 - [htop](https://github.com/htop-dev/htop), 'a cross-platform interactive process viewer'
 - [NetOrbit](https://github.com/ZXCurban/NetOrbit), 'real-time global packet visualization in your terminal'
 
@@ -38,6 +48,9 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 - [git](https://github.com/rwos/gti), a git launcher inspired by `sl` in which a car drives across your terminal
 - [sl](https://github.com/mtoyoda/sl), a joke command to make a steam locomotive cross your terminal
 
+### Weather
+- [linecast](https://github.com/ashuttl/linecast), which aims to be the Farmer’s Almanac in your terminal
+
 ## Contributing
 Contributions are always welcome! Open up an issue with the following:
 
@@ -47,8 +60,8 @@ Contributions are always welcome! Open up an issue with the following:
 - Type of command it is (visualizer, purely aesthetic, etc.)
 
 ## FAQ
-#### Why don't you add my command?
+#### Why Don't You Add My Command?
 I'd love to! Open up an issue and let me know about it.
 
-#### I think your list should include <blah blah blah>.
+#### I Think Your List Should Include <blah Blah blah>.
 That's not much of a question, but tell me about it via an issue and let's talk about it!

@@ -29,6 +29,7 @@ My curated list of aesthetic terminal commands. Some are purely aesthetic, while
 ### Audio Tools & Visualizers
 - [cava](https://github.com/karlstav/cava), 'cross-platform audio visualizer'
 - [lazyspotify](https://github.com/dubeyKartikay/lazyspotify), 'a terminal Spotify client'
+- [pulsr](https://github.com/1337raspberry/pulsr), audio-visualizer via squiggly pulsar lines
 - [snglrtty](https://github.com/the-unknown/snglrtty), 'renders a circular spectrum analyzer in your TTY using ASCII characters and ANSI colors'
 
 ### Monitoring
